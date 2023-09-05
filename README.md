@@ -16,7 +16,7 @@ Welcome to the Holy Spirit eBook website. This platform is designed to provide r
 
 ## Live Demo
 
-Explore the live demo of the Holy Spirit eBook website: [Holy Spirit eBook Demo](https://www.example.com)
+Explore the live demo of the Holy Spirit eBook website: [Holy Spirit eBook Demo](https://edem-amet.github.io/Ebook/)
 
 ## Features
 - **Articles:** Read insightful articles about various aspects of the Holy Spirit's role in Christianity.
