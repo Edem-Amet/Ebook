@@ -1,0 +1,255 @@
+section{
+    padding: 60px 0;
+}
+
+.navbar{
+    background-color: rgb(247, 162, 3);
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+
+.container-lg{
+    margin-top: 7%;
+}
+
+.display-2{
+    margin-top: 5%;
+    color: rgb(247, 162, 3);
+}
+
+.text-muted{
+    color: rgb(49, 4, 4)!important;
+}
+
+.mt-3{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(49, 4, 4);
+    padding: 4px 6px;
+    border-radius: 10px;
+    display: inline;
+    text-align: center;
+    font-weight: 600;
+    border: 2px solid rgb(49, 4, 4);
+    box-shadow: 0 3px 7px rgb(247, 162, 3), 0 3px 55px 20px rgb(247, 162, 3);
+}
+
+.mt-3:hover{
+    color: rgb(49, 4, 4);
+    background-color: rgb(247, 162, 3);
+    border: 2px solid rgb(49, 4, 4);
+}
+
+.pb-2{
+    color: rgb(247, 162, 3);
+}
+
+#title-description{
+    color: rgb(49, 4, 4);;
+}
+
+#nav-tg{
+    background-color: rgb(49, 4, 4);
+}
+#nav-tog-icon{
+    background-color: rgb(247, 162, 3);
+}
+
+
+.navbar-light .navbar-nav .nav-link{
+    color: rgb(49, 4, 4);
+    font-weight: 600;
+    margin-left: 10px;
+    padding: 4px 8px;
+    border-radius: 30px;
+    display: inline-block;
+}
+
+
+.navbar-light .navbar-nav .nav-link:hover{
+    border-radius: 30px;
+    color: rgb(247, 162, 3);
+    background-color: rgb(49, 4, 4);
+}
+
+.btn-secondary
+{
+    color: rgb(247, 162, 3);
+    background-color: rgb(49, 4, 4);
+    border: 2px solid rgb(247, 162, 3);
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.btn-secondary:hover{
+    border: 2px solid rgb(247, 162, 3);
+    color: white;
+    background-color: rgb(49, 4, 4);
+}
+
+h2{
+    color: rgb(49, 4, 4);
+}
+
+.lead{
+    color: rgb(247, 162, 3)!important;
+}
+
+h4{
+    color: rgb(49, 4, 4);
+}
+
+.text-primary{
+    color: rgb(247, 162, 3)!important;
+}
+
+.card.border-primary{
+    border: 2px solid rgb(247, 162, 3)!important;
+}
+
+.accordion-button:not(.collapsed){
+    color: rgb(247, 162, 3)!important;
+    background-color: rgb(49, 4, 4);
+}
+
+.accordion-button {
+    color: rgb(49, 4, 4)!important;
+    font-weight: 600;
+}
+
+.accordion-item {
+    border: 2px solid rgb(247, 162, 3);
+}
+
+h5{
+    color: rgb(49, 4, 4);
+}
+
+
+.btn-primary{
+    color: rgb(247, 162, 3);
+    background-color: rgb(49, 4, 4);
+    border: 1px solid rgb(247, 162, 3);
+    border-radius: 10px;
+}
+
+.btn-primary:hover{
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(49, 4, 4);
+    border: 1px solid rgb(247, 162, 3);
+}
+
+.form-control{
+    border: 1px solid rgb(247, 162, 3);
+}
+
+.text-secondary{
+    color: rgb(247, 162, 3)!important;
+}
+
+.input-group-text{
+    background-color: rgb(49, 4, 4)!important;
+    color: rgb(247, 162, 3);
+}
+
+.bi-stars{
+    color: rgb(247, 162, 3)!important;
+}
+
+.dropdown-item{
+    color: rgb(247, 162, 3)!important;
+    background-color: rgb(49, 4, 4)!important;
+    margin-bottom: 1px;
+}
+
+.dropdown-item:hover{
+    color: rgb(49, 4, 4)!important;
+    background-color: rgb(247, 162, 3)!important;
+}
+
+
+::-webkit-scrollbar{
+    width: 13px;
+  }
+  
+  ::-webkit-scrollbar-track{
+    border-radius: 15px;
+    box-shadow: inset 0 0 5px rgba(0,0,0,0.5);
+  }
+  
+  ::-webkit-scrollbar-thumb{
+    background: rgb(247, 162, 3);
+    border-radius: 15px;
+  }
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
