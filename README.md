@@ -12,7 +12,8 @@ Welcome to the Holy Spirit eBook website. This platform is designed to provide r
 
 ## Preview
 
-![Holy Spirit eBook Website Screenshot](............)
+![Holy Spirit eBook Website Screenshot](![E- book](https://github.com/Edem-Amet/Ebook/assets/143708044/56d0ca97-9c15-4a14-8dcf-8821c024b4a2)
+)
 
 ## Live Demo
 
